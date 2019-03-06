@@ -1,0 +1,440 @@
+<http://g.co/kg/g/11b6cftndw> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/g/11b6cftndw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11b6d98b9g> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/g/11b6d98b9g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11b8c6sv71> <http://schema.org/description> "Song by Anthem Lights" .
+<http://g.co/kg/g/11b8c6sv71> <http://schema.org/name> "Taylor Swift Mash-Up" .
+<http://g.co/kg/g/11b8c6sv71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11by51n9w4> <http://schema.org/description> "Film" .
+<http://g.co/kg/g/11by51n9w4> <http://schema.org/name> "Taylor Swift: From the Heart" .
+<http://g.co/kg/g/11by51n9w4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://g.co/kg/g/11by51n9w4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11bynmw4gg> <http://schema.org/description> "Song by Instalok" .
+<http://g.co/kg/g/11bynmw4gg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11c1n6tljq> <http://schema.org/description> "2015 film" .
+<http://g.co/kg/g/11c1n6tljq> <http://schema.org/name> "The 1989 World Tour Live" .
+<http://g.co/kg/g/11c1n6tljq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://g.co/kg/g/11c1n6tljq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11c1nhrmx9> <http://schema.org/description> "Song" .
+<http://g.co/kg/g/11c1nhrmx9> <http://schema.org/name> "1989 (Taylor Swift)" .
+<http://g.co/kg/g/11c1nhrmx9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+<http://g.co/kg/g/11c1nhrmx9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11c2q2w0kr> <http://schema.org/description> "Song by Trinidad James" .
+<http://g.co/kg/g/11c2q2w0kr> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/g/11c2q2w0kr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+<http://g.co/kg/g/11c2q2w0kr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11c2yfj15h> <http://schema.org/description> "Video game" .
+<http://g.co/kg/g/11c2yfj15h> <http://schema.org/name> "I Love Taylor Swift" .
+<http://g.co/kg/g/11c2yfj15h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11c2yfj15h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> .
+<http://g.co/kg/g/11c601grdh> <http://schema.org/description> "Song by Matthew Koma and The Knocks" .
+<http://g.co/kg/g/11c601grdh> <http://schema.org/name> "I Wish (My Taylor Swift)" .
+<http://g.co/kg/g/11c601grdh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11clvfx6x7> <http://schema.org/description> "Song by Anthem Lights" .
+<http://g.co/kg/g/11clvfx6x7> <http://schema.org/name> "Taylor Swift Mash-Up" .
+<http://g.co/kg/g/11clvfx6x7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+<http://g.co/kg/g/11clvfx6x7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11ddxxq44q> <http://schema.org/description> "Song by Trinidad James" .
+<http://g.co/kg/g/11ddxxq44q> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/g/11ddxxq44q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11dzt0f6wh> <http://schema.org/description> "Album by Dave Giles" .
+<http://g.co/kg/g/11dzt0f6wh> <http://schema.org/name> "The Taylor Swift EP" .
+<http://g.co/kg/g/11dzt0f6wh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://g.co/kg/g/11dzt0f6wh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11f06kgm76> <http://schema.org/description> "Studio album by Taylor Swift" .
+<http://g.co/kg/g/11f06kgm76> <http://schema.org/name> "Reputation" .
+<http://g.co/kg/g/11f06kgm76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://g.co/kg/g/11f06kgm76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11f29x_kwm> <http://schema.org/description> "Song by Illustrial" .
+<http://g.co/kg/g/11f29x_kwm> <http://schema.org/name> "Blank Space (Taylor Swift)" .
+<http://g.co/kg/g/11f29x_kwm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+<http://g.co/kg/g/11f29x_kwm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11f2b0kdd0> <http://schema.org/description> "Song by Illustrial" .
+<http://g.co/kg/g/11f2b0kdd0> <http://schema.org/name> "Blank Space (Taylor Swift)" .
+<http://g.co/kg/g/11f2b0kdd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11f5vbkjch> <http://schema.org/description> "Song" .
+<http://g.co/kg/g/11f5vbkjch> <http://schema.org/name> "1989 (Taylor Swift)" .
+<http://g.co/kg/g/11f5vbkjch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11f6cqsg6w> <http://schema.org/description> "Event" .
+<http://g.co/kg/g/11f6cqsg6w> <http://schema.org/name> "2019 CMA Music Festival" .
+<http://g.co/kg/g/11f6cqsg6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/g/11f6cqsg6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11f6cqsg6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TouristAttraction> .
+<http://g.co/kg/g/11fftpg0t6> <http://schema.org/description> "Event" .
+<http://g.co/kg/g/11fftpg0t6> <http://schema.org/name> "Ariana Grande &amp; Taylor Swift" .
+<http://g.co/kg/g/11fftpg0t6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/g/11fftpg0t6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11fj2rrk6f> <http://schema.org/description> "Event" .
+<http://g.co/kg/g/11fj2rrk6f> <http://schema.org/name> "Taylor Swift Vs Katy Perry" .
+<http://g.co/kg/g/11fj2rrk6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/g/11fj2rrk6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11fj5c7p60> <http://schema.org/description> "Film" .
+<http://g.co/kg/g/11fj5c7p60> <http://schema.org/name> "Taylor Swift reputation Stadium Tour" .
+<http://g.co/kg/g/11fj5c7p60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://g.co/kg/g/11fj5c7p60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11fjx2f45v> <http://schema.org/description> "Event" .
+<http://g.co/kg/g/11fjx2f45v> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/g/11fjx2f45v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/g/11fjx2f45v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11fjzfjyvm> <http://schema.org/description> "Event" .
+<http://g.co/kg/g/11fjzfjyvm> <http://schema.org/name> "taylor swift tour setlist" .
+<http://g.co/kg/g/11fjzfjyvm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/g/11fjzfjyvm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11g_zjskbb> <http://schema.org/description> "Event" .
+<http://g.co/kg/g/11g_zjskbb> <http://schema.org/name> "54 Sings Taylor Swift" .
+<http://g.co/kg/g/11g_zjskbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/g/11g_zjskbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11g_zjtnz0> <http://schema.org/description> "Event" .
+<http://g.co/kg/g/11g_zjtnz0> <http://schema.org/name> "54 Sings Taylor Swift" .
+<http://g.co/kg/g/11g_zjtnz0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/g/11g_zjtnz0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/11h3mzgkpx> <http://schema.org/description> "Event" .
+<http://g.co/kg/g/11h3mzgkpx> <http://schema.org/name> "Taylor Swift Tribute" .
+<http://g.co/kg/g/11h3mzgkpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/g/11h3mzgkpx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/1q5jbnkwx> <http://schema.org/description> "Song by The Vikram Shankar Orchestra" .
+<http://g.co/kg/g/1q5jbnkwx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/1q5jdk6r4> <http://schema.org/description> "Song by Jon Schmidt" .
+<http://g.co/kg/g/1q5jdk6r4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/1s05p6_dt> <http://schema.org/description> "Song by Speedy Ortiz" .
+<http://g.co/kg/g/1s05p6_dt> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/g/1s05p6_dt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/1s05rr9_9> <http://schema.org/description> "Song by TIFG" .
+<http://g.co/kg/g/1s05rr9_9> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/g/1s05rr9_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/g/1s05vmjpr> <http://schema.org/description> "Song by Austin Kyle" .
+<http://g.co/kg/g/1s05vmjpr> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/g/1s05vmjpr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/011lmk0n> <http://schema.googleapis.com/detailedDescription> _:c14n52 .
+<http://g.co/kg/m/011lmk0n> <http://schema.org/description> "Studio album by Taylor Swift" .
+<http://g.co/kg/m/011lmk0n> <http://schema.org/image> _:c14n29 .
+<http://g.co/kg/m/011lmk0n> <http://schema.org/name> "1989" .
+<http://g.co/kg/m/011lmk0n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://g.co/kg/m/011lmk0n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0127xmfr> <http://schema.googleapis.com/detailedDescription> _:c14n45 .
+<http://g.co/kg/m/0127xmfr> <http://schema.org/description> "Concert tour" .
+<http://g.co/kg/m/0127xmfr> <http://schema.org/image> _:c14n18 .
+<http://g.co/kg/m/0127xmfr> <http://schema.org/name> "The 1989 World Tour" .
+<http://g.co/kg/m/0127xmfr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/m/0127xmfr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/03cl661> <http://schema.googleapis.com/detailedDescription> _:c14n55 .
+<http://g.co/kg/m/03cl661> <http://schema.org/description> "Album by Taylor Swift" .
+<http://g.co/kg/m/03cl661> <http://schema.org/name> "Sounds of the Season: The Taylor Swift Holiday Collection" .
+<http://g.co/kg/m/03cl661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://g.co/kg/m/03cl661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/03g7rsz> <http://schema.googleapis.com/detailedDescription> _:c14n48 .
+<http://g.co/kg/m/03g7rsz> <http://schema.org/description> "Studio album by Taylor Swift" .
+<http://g.co/kg/m/03g7rsz> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/m/03g7rsz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://g.co/kg/m/03g7rsz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/04glrxj> <http://schema.googleapis.com/detailedDescription> _:c14n58 .
+<http://g.co/kg/m/04glrxj> <http://schema.org/description> "Studio album by Taylor Swift" .
+<http://g.co/kg/m/04glrxj> <http://schema.org/image> _:c14n20 .
+<http://g.co/kg/m/04glrxj> <http://schema.org/name> "Fearless" .
+<http://g.co/kg/m/04glrxj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://g.co/kg/m/04glrxj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/05v7c4l> <http://schema.org/description> "Concert tour" .
+<http://g.co/kg/m/05v7c4l> <http://schema.org/name> "Taylor Swift Fearless 2009 Tour" .
+<http://g.co/kg/m/05v7c4l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/m/05v7c4l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0_mhbzf> <http://schema.org/description> "2012 film" .
+<http://g.co/kg/m/0_mhbzf> <http://schema.org/name> "Taylor Swift: American Beauty" .
+<http://g.co/kg/m/0_mhbzf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://g.co/kg/m/0_mhbzf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0cmdv8y> <http://schema.googleapis.com/detailedDescription> _:c14n21 .
+<http://g.co/kg/m/0cmdv8y> <http://schema.org/description> "Studio album by Taylor Swift" .
+<http://g.co/kg/m/0cmdv8y> <http://schema.org/image> _:c14n65 .
+<http://g.co/kg/m/0cmdv8y> <http://schema.org/name> "Speak Now" .
+<http://g.co/kg/m/0cmdv8y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://g.co/kg/m/0cmdv8y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0crvk0b> <http://schema.org/description> "2007 film" .
+<http://g.co/kg/m/0crvk0b> <http://schema.org/name> "Taylor Swift: Taylor Swift" .
+<http://g.co/kg/m/0crvk0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://g.co/kg/m/0crvk0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0dl567> <http://schema.googleapis.com/detailedDescription> _:c14n54 .
+<http://g.co/kg/m/0dl567> <http://schema.org/description> "American singer" .
+<http://g.co/kg/m/0dl567> <http://schema.org/image> _:c14n23 .
+<http://g.co/kg/m/0dl567> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/m/0dl567> <http://schema.org/url> "http://taylorswift.com/" .
+<http://g.co/kg/m/0dl567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://g.co/kg/m/0dl567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0dljyf5> <http://schema.googleapis.com/detailedDescription> _:c14n22 .
+<http://g.co/kg/m/0dljyf5> <http://schema.org/description> "American television series" .
+<http://g.co/kg/m/0dljyf5> <http://schema.org/name> "Journey to Fearless" .
+<http://g.co/kg/m/0dljyf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> .
+<http://g.co/kg/m/0dljyf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0dxf3j9> <http://schema.org/description> "Song by Austin Kyle" .
+<http://g.co/kg/m/0dxf3j9> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/m/0dxf3j9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+<http://g.co/kg/m/0dxf3j9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0l8mh7y> <http://schema.googleapis.com/detailedDescription> _:c14n62 .
+<http://g.co/kg/m/0l8mh7y> <http://schema.org/description> "Studio album by Taylor Swift" .
+<http://g.co/kg/m/0l8mh7y> <http://schema.org/image> _:c14n15 .
+<http://g.co/kg/m/0l8mh7y> <http://schema.org/name> "Red" .
+<http://g.co/kg/m/0l8mh7y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://g.co/kg/m/0l8mh7y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0y6000d> <http://schema.org/description> "2010 film" .
+<http://g.co/kg/m/0y6000d> <http://schema.org/name> "Taylor Swift: Speak Now" .
+<http://g.co/kg/m/0y6000d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://g.co/kg/m/0y6000d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0y96wyx> <http://schema.org/description> "Song by TIFG" .
+<http://g.co/kg/m/0y96wyx> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/m/0y96wyx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+<http://g.co/kg/m/0y96wyx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0yt4l1m> <http://schema.org/description> "Album by Speedy Ortiz" .
+<http://g.co/kg/m/0yt4l1m> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/m/0yt4l1m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://g.co/kg/m/0yt4l1m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0ytlxn7> <http://schema.org/description> "Song by Speedy Ortiz" .
+<http://g.co/kg/m/0ytlxn7> <http://schema.org/name> "Taylor Swift" .
+<http://g.co/kg/m/0ytlxn7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+<http://g.co/kg/m/0ytlxn7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0z4fs9j> <http://schema.org/description> "Song by The Vikram Shankar Orchestra" .
+<http://g.co/kg/m/0z4fs9j> <http://schema.org/name> "Red (Taylor Swift Cover)" .
+<http://g.co/kg/m/0z4fs9j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicRecording> .
+<http://g.co/kg/m/0z4fs9j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://g.co/kg/m/0z688m1> <http://schema.org/description> "Award ceremony" .
+<http://g.co/kg/m/0z688m1> <http://schema.org/name> "2009 MTV Video Music Awards" .
+<http://g.co/kg/m/0z688m1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://g.co/kg/m/0z688m1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+_:c14n0 <http://schema.googleapis.com/resultScore> "1.36220184E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n0 <http://schema.org/result> <http://g.co/kg/g/11c1n6tljq> .
+_:c14n0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n1 <http://schema.googleapis.com/resultScore> "1.51806061E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n1 <http://schema.org/result> <http://g.co/kg/g/1s05rr9_9> .
+_:c14n1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n10 <http://schema.googleapis.com/resultScore> "1.05359619E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n10 <http://schema.org/result> <http://g.co/kg/m/0y6000d> .
+_:c14n10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n11 <http://schema.googleapis.com/resultScore> "1.34593445E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n11 <http://schema.org/result> <http://g.co/kg/g/1q5jdk6r4> .
+_:c14n11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n12 <http://schema.googleapis.com/resultScore> "1.28106949E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n12 <http://schema.org/result> <http://g.co/kg/g/11b6cftndw> .
+_:c14n12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n13 <http://schema.googleapis.com/resultScore> "1.41099152E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n13 <http://schema.org/result> <http://g.co/kg/g/1q5jbnkwx> .
+_:c14n13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n14 <http://schema.googleapis.com/resultScore> "1.49176376E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n14 <http://schema.org/result> <http://g.co/kg/g/11fj2rrk6f> .
+_:c14n14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n15 <http://schema.org/contentUrl> "http://t0.gstatic.com/images?q=tbn:ANd9GcQBFEwFYnEDjgLRwYNyNnqqMWxG9fS7Fc4Yn6WyxvkZ6MnpPCfv" .
+_:c14n15 <http://schema.org/url> "https://commons.wikimedia.org/wiki/File:Taylor_Swift_RED_Tour_(8642419792).jpg" .
+_:c14n16 <http://schema.googleapis.com/resultScore> "3.62499786E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n16 <http://schema.org/result> <http://g.co/kg/m/04glrxj> .
+_:c14n16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n17 <http://schema.googleapis.com/resultScore> "1.02393494E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n17 <http://schema.org/result> <http://g.co/kg/m/0z4fs9j> .
+_:c14n17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n18 <http://schema.org/contentUrl> "http://t3.gstatic.com/images?q=tbn:ANd9GcQh84zGM9dKFJxG76q3N264jy70ESZ_bTmHZm2olAYtSEPuZJCh" .
+_:c14n18 <http://schema.org/url> "https://commons.wikimedia.org/wiki/File:The_1989_World_Tour_Logo.png" .
+_:c14n19 <http://schema.googleapis.com/resultScore> "1.15181969E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n19 <http://schema.org/result> <http://g.co/kg/g/11f5vbkjch> .
+_:c14n19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n2 <http://schema.googleapis.com/resultScore> "1.00580688E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n2 <http://schema.org/result> <http://g.co/kg/g/11fftpg0t6> .
+_:c14n2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n20 <http://schema.org/contentUrl> "http://t2.gstatic.com/images?q=tbn:ANd9GcTLjFQuuo4Lx364_sdPlqcRUnLLSnRpfGvD4-2a5J-bnrIZVvlj" .
+_:c14n20 <http://schema.org/url> "https://commons.wikimedia.org/wiki/File:Taylor_Swift_-_Fearless_Tour_-_Los_Angeles_05.jpg" .
+_:c14n21 <http://schema.org/articleBody> "Speak Now is the third studio album by American singer-songwriter Taylor Swift. It was released on October 25, 2010, by Big Machine Records. " .
+_:c14n21 <http://schema.org/license> "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" .
+_:c14n21 <http://schema.org/url> "https://en.wikipedia.org/wiki/Speak_Now" .
+_:c14n22 <http://schema.org/articleBody> "Journey to Fearless was a music concert series starring American singer-songwriter Taylor Swift. It aired as a three-night television special on The Hub starting on October 22, 2010. " .
+_:c14n22 <http://schema.org/license> "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" .
+_:c14n22 <http://schema.org/url> "https://en.wikipedia.org/wiki/Journey_to_Fearless" .
+_:c14n23 <http://schema.org/contentUrl> "http://t0.gstatic.com/images?q=tbn:ANd9GcST848UJ0u31E6aoQfb2nnKZFyad7rwNF0ZLOCACGpu4jnboEzV" .
+_:c14n23 <http://schema.org/url> "https://en.wikipedia.org/wiki/Begin_Again_(Taylor_Swift_song)" .
+_:c14n24 <http://schema.googleapis.com/resultScore> "2.24630997E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n24 <http://schema.org/result> <http://g.co/kg/m/0cmdv8y> .
+_:c14n24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n25 <http://schema.org/itemListElement> _:c14n0 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n1 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n10 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n11 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n12 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n13 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n14 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n16 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n17 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n19 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n2 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n24 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n26 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n27 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n28 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n3 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n30 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n31 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n32 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n33 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n34 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n35 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n36 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n37 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n38 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n39 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n4 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n40 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n41 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n42 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n43 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n44 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n46 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n47 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n49 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n5 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n50 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n51 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n53 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n56 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n57 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n59 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n6 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n60 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n61 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n63 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n64 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n7 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n8 .
+_:c14n25 <http://schema.org/itemListElement> _:c14n9 .
+_:c14n25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> .
+_:c14n26 <http://schema.googleapis.com/resultScore> "1.5809668E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n26 <http://schema.org/result> <http://g.co/kg/m/0127xmfr> .
+_:c14n26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n27 <http://schema.googleapis.com/resultScore> "1.52611557E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n27 <http://schema.org/result> <http://g.co/kg/g/1s05p6_dt> .
+_:c14n27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n28 <http://schema.googleapis.com/resultScore> "1.45336395E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n28 <http://schema.org/result> <http://g.co/kg/m/0ytlxn7> .
+_:c14n28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n29 <http://schema.org/contentUrl> "http://t1.gstatic.com/images?q=tbn:ANd9GcS6iqOwcmtENxZtJdWO2l_Dma-iW-LknVzw6GCas4Eu37uZWF9u" .
+_:c14n29 <http://schema.org/url> "https://commons.wikimedia.org/wiki/File:1989_album_logo.png" .
+_:c14n3 <http://schema.googleapis.com/resultScore> "9.8157646E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n3 <http://schema.org/result> <http://g.co/kg/g/11by51n9w4> .
+_:c14n3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n30 <http://schema.googleapis.com/resultScore> "3.53117126E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n30 <http://schema.org/result> <http://g.co/kg/m/011lmk0n> .
+_:c14n30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n31 <http://schema.googleapis.com/resultScore> "1.41679733E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n31 <http://schema.org/result> <http://g.co/kg/g/11c2q2w0kr> .
+_:c14n31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n32 <http://schema.googleapis.com/resultScore> "1.0181646E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n32 <http://schema.org/result> <http://g.co/kg/g/11fjzfjyvm> .
+_:c14n32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n33 <http://schema.googleapis.com/resultScore> "1.31109955E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n33 <http://schema.org/result> <http://g.co/kg/m/0_mhbzf> .
+_:c14n33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n34 <http://schema.googleapis.com/resultScore> "1.02203156E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n34 <http://schema.org/result> <http://g.co/kg/g/11c2yfj15h> .
+_:c14n34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n35 <http://schema.googleapis.com/resultScore> "5.01129456E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n35 <http://schema.org/result> <http://g.co/kg/m/03g7rsz> .
+_:c14n35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n36 <http://schema.googleapis.com/resultScore> "1.17340675E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n36 <http://schema.org/result> <http://g.co/kg/g/11c1nhrmx9> .
+_:c14n36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n37 <http://schema.googleapis.com/resultScore> "1.89491898E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n37 <http://schema.org/result> <http://g.co/kg/m/03cl661> .
+_:c14n37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n38 <http://schema.googleapis.com/resultScore> "1.07630089E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n38 <http://schema.org/result> <http://g.co/kg/g/11b8c6sv71> .
+_:c14n38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n39 <http://schema.googleapis.com/resultScore> "4.79296143E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n39 <http://schema.org/result> <http://g.co/kg/m/0l8mh7y> .
+_:c14n39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n4 <http://schema.googleapis.com/resultScore> "1.38796585E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n4 <http://schema.org/result> <http://g.co/kg/g/11c601grdh> .
+_:c14n4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n40 <http://schema.googleapis.com/resultScore> "1.53199722E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n40 <http://schema.org/result> <http://g.co/kg/g/11ddxxq44q> .
+_:c14n40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n41 <http://schema.googleapis.com/resultScore> "4.06949554E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n41 <http://schema.org/result> <http://g.co/kg/g/11f06kgm76> .
+_:c14n41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n42 <http://schema.googleapis.com/resultScore> "1.04109695E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n42 <http://schema.org/result> <http://g.co/kg/g/11f6cqsg6w> .
+_:c14n42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n43 <http://schema.googleapis.com/resultScore> "1.374664E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n43 <http://schema.org/result> <http://g.co/kg/g/11fj5c7p60> .
+_:c14n43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n44 <http://schema.googleapis.com/resultScore> "1.50974777E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n44 <http://schema.org/result> <http://g.co/kg/m/0crvk0b> .
+_:c14n44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n45 <http://schema.org/articleBody> "The 1989 World Tour was the fourth concert tour by American singer-songwriter Taylor Swift, in support of her fifth studio album, 1989. " .
+_:c14n45 <http://schema.org/license> "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" .
+_:c14n45 <http://schema.org/url> "https://en.wikipedia.org/wiki/The_1989_World_Tour" .
+_:c14n46 <http://schema.googleapis.com/resultScore> "1.53392838E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n46 <http://schema.org/result> <http://g.co/kg/m/0yt4l1m> .
+_:c14n46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n47 <http://schema.googleapis.com/resultScore> "1.48728622E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n47 <http://schema.org/result> <http://g.co/kg/m/0dljyf5> .
+_:c14n47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n48 <http://schema.org/articleBody> "Taylor Swift is the self-titled debut studio album by American singer-songwriter Taylor Swift, released on October 24, 2006, by Big Machine Records. " .
+_:c14n48 <http://schema.org/license> "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" .
+_:c14n48 <http://schema.org/url> "https://en.wikipedia.org/wiki/Taylor_Swift_(album)" .
+_:c14n49 <http://schema.googleapis.com/resultScore> "1.16413582E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n49 <http://schema.org/result> <http://g.co/kg/g/11f2b0kdd0> .
+_:c14n49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n5 <http://schema.googleapis.com/resultScore> "1.02010826E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n5 <http://schema.org/result> <http://g.co/kg/g/11dzt0f6wh> .
+_:c14n5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n50 <http://schema.googleapis.com/resultScore> "1.52809097E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n50 <http://schema.org/result> <http://g.co/kg/g/1s05vmjpr> .
+_:c14n50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n51 <http://schema.googleapis.com/resultScore> "1.28611343E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n51 <http://schema.org/result> <http://g.co/kg/g/11b6d98b9g> .
+_:c14n51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n52 <http://schema.org/articleBody> "1989 is the fifth studio album by American singer-songwriter Taylor Swift, released on October 27, 2014 through Big Machine Records. " .
+_:c14n52 <http://schema.org/license> "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" .
+_:c14n52 <http://schema.org/url> "https://en.wikipedia.org/wiki/1989_(Taylor_Swift_album)" .
+_:c14n53 <http://schema.googleapis.com/resultScore> "1.25003586E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n53 <http://schema.org/result> <http://g.co/kg/g/11g_zjskbb> .
+_:c14n53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n54 <http://schema.org/articleBody> "Taylor Alison Swift is an American singer-songwriter. As one of the world's leading contemporary recording artists, she is known for narrative songs about her personal life, which has received widespread media coverage.\n" .
+_:c14n54 <http://schema.org/license> "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" .
+_:c14n54 <http://schema.org/url> "https://en.wikipedia.org/wiki/Taylor_Swift" .
+_:c14n55 <http://schema.org/articleBody> "The Taylor Swift Holiday Collection, originally titled Sounds of the Season: The Taylor Swift Holiday Collection, is a Christmas EP by American singer Taylor Swift. " .
+_:c14n55 <http://schema.org/license> "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" .
+_:c14n55 <http://schema.org/url> "https://en.wikipedia.org/wiki/The_Taylor_Swift_Holiday_Collection" .
+_:c14n56 <http://schema.googleapis.com/resultScore> "1.02768356E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n56 <http://schema.org/result> <http://g.co/kg/g/11f29x_kwm> .
+_:c14n56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n57 <http://schema.googleapis.com/resultScore> "1.44806259E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n57 <http://schema.org/result> <http://g.co/kg/m/0y96wyx> .
+_:c14n57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n58 <http://schema.org/articleBody> "Fearless is the second studio album by American singer-songwriter Taylor Swift. The album was released on November 11, 2008, by Big Machine Records. As with her first album, Taylor Swift, Swift wrote or co-wrote all thirteen tracks on Fearless. " .
+_:c14n58 <http://schema.org/license> "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" .
+_:c14n58 <http://schema.org/url> "https://en.wikipedia.org/wiki/Fearless_(Taylor_Swift_album)" .
+_:c14n59 <http://schema.googleapis.com/resultScore> "1.00182709E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n59 <http://schema.org/result> <http://g.co/kg/g/11clvfx6x7> .
+_:c14n59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n6 <http://schema.googleapis.com/resultScore> "1.16879593E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n6 <http://schema.org/result> <http://g.co/kg/g/11h3mzgkpx> .
+_:c14n6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n60 <http://schema.googleapis.com/resultScore> "3.60239807E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n60 <http://schema.org/result> <http://g.co/kg/m/0z688m1> .
+_:c14n60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n61 <http://schema.googleapis.com/resultScore> "1.52611557E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n61 <http://schema.org/result> <http://g.co/kg/g/11fjx2f45v> .
+_:c14n61 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n62 <http://schema.org/articleBody> "Red is the fourth studio album by American singer-songwriter Taylor Swift. It was released on October 22, 2012, by Big Machine Records, as the follow-up to her third studio album, Speak Now. " .
+_:c14n62 <http://schema.org/license> "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" .
+_:c14n62 <http://schema.org/url> "https://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)" .
+_:c14n63 <http://schema.googleapis.com/resultScore> "1.09722961E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n63 <http://schema.org/result> <http://g.co/kg/m/05v7c4l> .
+_:c14n63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n64 <http://schema.googleapis.com/resultScore> "1.0162001E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n64 <http://schema.org/result> <http://g.co/kg/g/11g_zjtnz0> .
+_:c14n64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n65 <http://schema.org/contentUrl> "http://t2.gstatic.com/images?q=tbn:ANd9GcRgFyM0pMKbSNsy06Hh3Xl3v9UoAC8B_5pIcgre69X5vXUlKoaN" .
+_:c14n65 <http://schema.org/url> "https://commons.wikimedia.org/wiki/File:Taylor_Swift_Speak_Now_Tour_(6966915023).jpg" .
+_:c14n7 <http://schema.googleapis.com/resultScore> "1.45336395E2"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n7 <http://schema.org/result> <http://g.co/kg/m/0dxf3j9> .
+_:c14n7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n8 <http://schema.googleapis.com/resultScore> "1.232895264E3"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n8 <http://schema.org/result> <http://g.co/kg/m/0dl567> .
+_:c14n8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+_:c14n9 <http://schema.googleapis.com/resultScore> "9.9717682E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:c14n9 <http://schema.org/result> <http://g.co/kg/g/11bynmw4gg> .
+_:c14n9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.googleapis.com/EntitySearchResult> .
+
